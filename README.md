@@ -1,7 +1,8 @@
 <div align="center">
-<p><b style="font-size: 32px">🚀 Software Developer 🚀</b></p>
+<span style="font-size: 32px"><b>🚀 Software Developer 🚀</b></span>
 <br />
 <br />
+</div>  
 
 <div align="center">
 <h1> Connect with me</h1>
