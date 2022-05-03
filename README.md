@@ -1,5 +1,5 @@
 <div align="center">
-<span style="font-size: 32px"><b>🚀 Software Developer 🚀</b></span>
+<p style="font-size: 32px"><b>🚀 Software Developer 🚀</b></p>
 <br />
 <br />
 
