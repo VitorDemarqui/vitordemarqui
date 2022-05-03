@@ -3,13 +3,10 @@
 </h1>
 <br />
 <br />
-<a href="https://imgur.com/nGNGWUp"><img src="https://i.imgur.com/nGNGWUp.png" title="banner" /></a>
-
 
 <h1 align="center"> Connect with me</h1>
 
-[<img align="left" alt="https://www.linkedin.com/in/gabeh98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Linkedin.png" />](https://www.linkedin.com/in/gabeh98/)
-[<img align="left" alt="https://www.instagram.com/gabeh_98/" width="250px" src="https://github.com/Gabeh98/Gabeh98/blob/master/Instagram.png" />](https://www.instagram.com/gabeh_98/)
+[<img align="left" alt="https://www.linkedin.com/in/vitor-demarqui-13580a196/" width="250px" src="https://www.linkedin.com/in/vitor-demarqui-13580a196/" />](https://www.linkedin.com/in/vitor-demarqui-13580a196/)
 <br />
 <br />
 <br />
@@ -30,13 +27,3 @@
   <img alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   <img alt="Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" />
 </div>
-<br />
-
----
-
-<br />
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabeh98&show_icons=true&theme=dracula&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabeh98&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
