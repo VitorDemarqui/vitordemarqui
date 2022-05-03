@@ -1,4 +1,4 @@
-<h2 style="border: none font-size: 32px" align="center"><b>🚀 Software Developer 🚀</b></h2>
+<h2 style="border: none; font-size: 32px;" align="center"><b>🚀 Software Developer 🚀</b></h2>
 <br />
 <br />
 <br />
