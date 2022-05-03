@@ -46,16 +46,6 @@
 <br />
 <br />
 
-<div> 
-	### Animation:
-
-  ![Snake animation](https://github.com/VitorDemarqui/snake/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
-
-<br />
-<br />
-
 <div align="end">
 <img  src="https://img.shields.io/github/followers/VitorDemarqui.svg?style=social&label=Follow&maxAge=2592000"/>
 </div>
