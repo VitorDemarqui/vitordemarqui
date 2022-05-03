@@ -4,13 +4,6 @@
 <br />
 <br />
 
-<h1 align="center"> Connect with me</h1>
-
-[<img align="left" alt="https://www.linkedin.com/in/vitor-demarqui-13580a196/" width="250px" src="https://www.linkedin.com/in/vitor-demarqui-13580a196/" />](https://www.linkedin.com/in/vitor-demarqui-13580a196/)
-<br />
-<br />
-<br />
-
 ---
 <h1 align="center">Languages and Tools</h1>
 <div align="center">
