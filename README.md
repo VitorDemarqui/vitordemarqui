@@ -46,10 +46,13 @@
 <br />
 <br />
 
-<div  align="center"> 
-  ### Animation:
-  ![Snake animation](https://github.com/VitorDemarqui/snake/blob/main/github-contribution-grid-snake.svg)
+<div> 
+	### Animation:
+
+  ![Snake animation](https://github.com/Beertoni/snake/blob/main/github-contribution-grid-snake.svg)
+ 
 </div>
+
 <br />
 <br />
 
