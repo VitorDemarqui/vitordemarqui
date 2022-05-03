@@ -1,8 +1,3 @@
-<h1 align="center"><b>🚀 Software Developer 🚀</b></h1>
-<br />
-<br />
-<br />
-
 <div align="center">
 <h1> Connect with me</h1>
 <br />
